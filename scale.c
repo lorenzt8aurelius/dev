@@ -4,8 +4,12 @@ int main(void)
 {
     int n, i;
 
-    for (int i = 5; i < n; i++)
+     printf("Enter a number: ");
+     scanf("%d", i)
+
+    for (int i = n; i < n; i++)
     {
-        printf("")
+       
+
     }
 }
